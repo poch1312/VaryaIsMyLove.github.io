@@ -88,6 +88,7 @@ img{
     margin-top: 1092px;
     transform: translateX(1213px);
     box-shadow: 10px 4px 12px #b85aa2;
+    heigh:385px;
 }
 .i{
     position:absolute;
@@ -113,4 +114,5 @@ img{
     aspect-ratio:4/3;
 
 }
+
 
